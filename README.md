@@ -299,7 +299,7 @@ The notebook generates:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Fazil P Raphi**
 
